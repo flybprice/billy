@@ -57,9 +57,13 @@ h3 {
 .top-cloud{
 
     position:absolute;
-    top:50px;
+    top:75px;
     right:700px;
 }
 .computer {
-    width:50px
+    width:100px
+}
+.work {
+    width:100px
+
 }
