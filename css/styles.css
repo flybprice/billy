@@ -1,0 +1,41 @@
+
+body {
+    font-family: 'Akronim', cursive;
+    margin:0;
+    text-align:center;
+
+}
+h1 {
+    font-family: 'Abel', sans-serif;
+    width:15%;
+    margin:0 auto;
+}
+
+.container{
+    position:relative;
+    padding-top:100px;
+
+}
+
+.top {
+
+}
+
+.middle {
+}
+
+.bottom {
+}
+.bottom-cloud{
+    position:absolute;
+    padding-top:25px;
+    padding-left:85px;
+
+}
+
+.top-cloud{
+
+    position:absolute;
+    top:50px;
+    right:400px;
+}
