@@ -20,15 +20,16 @@ h1 {
 
 }
 h2 {
+    text-align:left;
     font-size:2.5rem;
-    width:15%;
+    width:20%;
     margin:0 auto;
     font-family: 'Comfortaa', cursive;
 
 }
 h3 {
     text-align:center;
-    width:25%;
+    width:15%;
     margin:0 auto;
     font-family: 'Comfortaa', cursive;
 
@@ -82,8 +83,4 @@ h3 {
     font-family: 'Ephesis', cursive;
 }
 
-.middlep{
-    margin-left:10px:
-    text-align:left;
-}
 
