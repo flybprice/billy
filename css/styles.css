@@ -84,7 +84,7 @@ hr {
 }
 .contact-message{
     width:40%;
-    margin: 50px auto 75px ;;
+    margin: 100px auto 75px ;;
 }
 .profile{
     width:50%;
@@ -102,7 +102,7 @@ hr {
 }
 .contact-me {
     width:60%;
-    margin:auto;
+    margin:50px auto;
 }
 .contact-btn {
    background: #3D94F6;
