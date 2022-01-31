@@ -5,6 +5,17 @@ body {
     font-family: 'Comfortaa', cursive;
 
 }
+a {
+    color: #11999E
+    font-family: 'Comfortaa', cursive;
+    margin: 10px 20px;
+    text-decoration: none;
+
+}
+
+a:hover{
+    color: #EAF6F6;
+}
 p{
     line-height:1;
     }
@@ -42,6 +53,8 @@ hr {
 }
 
 .bottom-container {
+    background-color: #668FBF;
+    padding: 50px 0 20px;
 }
 .bottom-cloud{
     position:absolute;
@@ -99,6 +112,12 @@ hr {
     font-size:16px;
     width:60%;
     margin:50px auto 100px auto;
+}
+
+.copyrite {
+    color: #EAF6F6;
+    font-size: .75rem;
+    padding: 20px 0;
 }
 .contact-me {
     padding-top:25px;
